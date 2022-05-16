@@ -54,9 +54,6 @@ public class HomeActivity extends Activity {
                     case 0:
 
                         break;
-                    case 3:
-                        startActivity(new Intent(getApplicationContext(), ProcessManagerActivity.class));
-                        break;
                     case 8:
                         Intent intent = new Intent(getApplicationContext(), SettingActivity.class);
                         startActivity(intent);
