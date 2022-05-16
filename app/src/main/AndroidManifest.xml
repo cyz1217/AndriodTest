@@ -19,6 +19,8 @@
         </activity>
         <activity android:name="com.cyz.mobilesafe_master.activity.HomeActivity"/>
         <activity android:name="com.cyz.mobilesafe_master.activity.SettingActivity"/>
+        <activity android:name="com.cyz.mobilesafe_master.activity.ProcessManagerActivity"/>
+
     </application>
 
 
